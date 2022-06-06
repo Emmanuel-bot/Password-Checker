@@ -1,0 +1,5 @@
+EMMANUEL,PASSWORD, POOR
+GILBERT,password, POOR
+kenny,Password, POOR
+Kenn,Password@1223#, STRONG
+emmanuel@123, tpbI@gc$@r4^&cNbT`>O, STRONG
